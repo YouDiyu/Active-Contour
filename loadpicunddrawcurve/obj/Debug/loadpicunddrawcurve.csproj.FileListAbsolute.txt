@@ -1,0 +1,30 @@
+C:\Users\You\Desktop\active contour\test\loadpicunddrawcurve\loadpicunddrawcurve\bin\Debug\loadpicunddrawcurve.exe.config
+C:\Users\You\Desktop\active contour\test\loadpicunddrawcurve\loadpicunddrawcurve\bin\Debug\loadpicunddrawcurve.exe
+C:\Users\You\Desktop\active contour\test\loadpicunddrawcurve\loadpicunddrawcurve\bin\Debug\loadpicunddrawcurve.pdb
+C:\Users\You\Desktop\active contour\test\loadpicunddrawcurve\loadpicunddrawcurve\obj\Debug\loadpicunddrawcurve.csprojResolveAssemblyReference.cache
+C:\Users\You\Desktop\active contour\test\loadpicunddrawcurve\loadpicunddrawcurve\obj\Debug\loadpicunddrawcurve.Form1.resources
+C:\Users\You\Desktop\active contour\test\loadpicunddrawcurve\loadpicunddrawcurve\obj\Debug\loadpicunddrawcurve.Properties.Resources.resources
+C:\Users\You\Desktop\active contour\test\loadpicunddrawcurve\loadpicunddrawcurve\obj\Debug\loadpicunddrawcurve.csproj.GenerateResource.Cache
+C:\Users\You\Desktop\active contour\test\loadpicunddrawcurve\loadpicunddrawcurve\obj\Debug\loadpicunddrawcurve.exe
+C:\Users\You\Desktop\active contour\test\loadpicunddrawcurve\loadpicunddrawcurve\obj\Debug\loadpicunddrawcurve.pdb
+C:\Users\You\Desktop\active contour\test\yuanban\loadpicunddrawcurve\loadpicunddrawcurve\bin\Debug\loadpicunddrawcurve.exe.config
+C:\Users\You\Desktop\active contour\test\yuanban\loadpicunddrawcurve\loadpicunddrawcurve\obj\Debug\loadpicunddrawcurve.exe
+C:\Users\You\Desktop\active contour\test\yuanban\loadpicunddrawcurve\loadpicunddrawcurve\obj\Debug\loadpicunddrawcurve.pdb
+C:\Users\You\Desktop\active contour\test\yuanban\loadpicunddrawcurve\loadpicunddrawcurve\bin\Debug\loadpicunddrawcurve.exe
+C:\Users\You\Desktop\active contour\test\yuanban\loadpicunddrawcurve\loadpicunddrawcurve\bin\Debug\loadpicunddrawcurve.pdb
+C:\Users\You\Desktop\active contour\test\yuanban\loadpicunddrawcurve\loadpicunddrawcurve\obj\Debug\loadpicunddrawcurve.csprojResolveAssemblyReference.cache
+C:\Users\You\Desktop\active contour\test\yuanban\loadpicunddrawcurve\loadpicunddrawcurve\obj\Debug\loadpicunddrawcurve.Form1.resources
+C:\Users\You\Desktop\active contour\test\yuanban\loadpicunddrawcurve\loadpicunddrawcurve\obj\Debug\loadpicunddrawcurve.Properties.Resources.resources
+C:\Users\You\Desktop\active contour\test\yuanban\loadpicunddrawcurve\loadpicunddrawcurve\obj\Debug\loadpicunddrawcurve.csproj.GenerateResource.Cache
+C:\Users\You\Desktop\active contour\Segmentierungsmethoden\Active Contour\loadpicunddrawcurve\bin\Debug\loadpicunddrawcurve.exe.config
+C:\Users\You\Desktop\active contour\Segmentierungsmethoden\Active Contour\loadpicunddrawcurve\obj\Debug\loadpicunddrawcurve.exe
+C:\Users\You\Desktop\active contour\Segmentierungsmethoden\Active Contour\loadpicunddrawcurve\obj\Debug\loadpicunddrawcurve.pdb
+C:\Users\You\Desktop\active contour\Segmentierungsmethoden\Active Contour\loadpicunddrawcurve\bin\Debug\loadpicunddrawcurve.exe
+C:\Users\You\Desktop\active contour\Segmentierungsmethoden\Active Contour\loadpicunddrawcurve\bin\Debug\loadpicunddrawcurve.pdb
+C:\Users\You\Desktop\active contour\Segmentierungsmethoden\Active Contour\loadpicunddrawcurve\obj\Debug\loadpicunddrawcurve.csprojResolveAssemblyReference.cache
+C:\Users\You\Desktop\active contour\Segmentierungsmethoden\Active Contour\loadpicunddrawcurve\obj\Debug\loadpicunddrawcurve.Form1.resources
+C:\Users\You\Desktop\active contour\Segmentierungsmethoden\Active Contour\loadpicunddrawcurve\obj\Debug\loadpicunddrawcurve.Properties.Resources.resources
+C:\Users\You\Desktop\active contour\Segmentierungsmethoden\Active Contour\loadpicunddrawcurve\obj\Debug\loadpicunddrawcurve.csproj.GenerateResource.Cache
+E:\Studienarbeit\active contour\StudienarbeitYou,Diyu\Segmentierungsmethoden\Active Contour\loadpicunddrawcurve\bin\Debug\loadpicunddrawcurve.exe.config
+E:\Studienarbeit\active contour\StudienarbeitYou,Diyu\Segmentierungsmethoden\Active Contour\loadpicunddrawcurve\obj\Debug\loadpicunddrawcurve.exe
+E:\Studienarbeit\active contour\StudienarbeitYou,Diyu\Segmentierungsmethoden\Active Contour\loadpicunddrawcurve\obj\Debug\loadpicunddrawcurve.pdb
